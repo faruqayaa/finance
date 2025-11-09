@@ -1,3 +1,4 @@
+![alt text](https://github.com/faruqayaa/finance/blob/main/assets/mobile.JPG?raw=true)
 # financeapp
 
 A new Flutter project.
